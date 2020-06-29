@@ -1,7 +1,6 @@
 {
   "name": "tweeter",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "elevation-pr": "^1.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeishay/tweeter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sergeishay/tweeter/issues"
+  },
+  "homepage": "https://github.com/sergeishay/tweeter#readme",
+  "description": ""
 }
